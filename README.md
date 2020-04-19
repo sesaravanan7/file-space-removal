@@ -1,8 +1,8 @@
-#Description
+# Description
 This script will help to remove file space with underscore for given file or files in a directory.
 This script will work if filenames contains space.
 
-##options
+## options
 
 --file fileaname with path
 --dir directory path contains filename with space
@@ -13,7 +13,7 @@ or
 
 download the script to respective directory
 
-##Execution:
+## Execution:
 
 cd file-space-removal
 
